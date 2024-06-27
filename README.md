@@ -13,9 +13,10 @@ This repository contains a data analysis and visualization project focusing on s
 • Power BI: Advanced data visualization, dashboard creation..<br />
 ----> Tools: DAX (Data Analysis Expressions), Power Query..<br />
 
-# Data Analysis and Visualization Project Superstore Sales
+# Dataset
+Source: https://www.kaggle.com/datasets/ishanshrivastava28/superstore-sa
 
-# Data Analysis and Visualization Project Superstore Sales
-# Data Analysis and Visualization Project Superstore Sales
-# Data Analysis and Visualization Project Superstore Sales
+
+# Author
+Al-ameen Akinwande
 
